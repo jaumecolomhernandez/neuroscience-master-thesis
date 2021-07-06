@@ -1,0 +1,1 @@
+tau,beta,gamma,frequency,up,down
